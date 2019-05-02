@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TruthTable</string>
+    <string name="enter_your_exepration">enter your exepration</string>
+    <string name="rules"><![CDATA[some rules and is & , or is | , negation is ! , implies is -> and equivalent is <->   if there is more than one statment put the others in packets]]></string>
 </resources>
